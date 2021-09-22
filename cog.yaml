@@ -1,0 +1,6 @@
+build:
+  python_version: "3.6"
+  gpu: true
+  python_packages:
+    - stylegan2_pytorch==123.3.3
+predict: "predict.py:Predictor"
