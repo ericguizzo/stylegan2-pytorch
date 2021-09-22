@@ -1,5 +1,5 @@
 build:
-  python_version: "3.6"
+  python_version: "3.7"
   gpu: true
   python_packages:
     - stylegan2_pytorch==1.8.6
